@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-plugin-insites-ui",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Tomasz Marciniak <tmarciniakm@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "insites-ui": "^0.3.0",
+    "gatsby": ">=2.13.80"
+  }
+}
